@@ -11,14 +11,15 @@ Email: kosta.maslihov@gmail.com<br>
 
 <h3>Навыки</h3> 
 
-**Java:** 8-17 SE, Java Core, OOP, SOLID, TDD, KISS, DRY <br>
+**Java:** 8-17 SE, Java Core <br>
+**Design pattern:** OOP, SOLID, TDD, KISS, DRY <br>
 **db:** JDBC, PostgreSQL, Liquibase, H2 <br>
 **test:** JUnit 5, AssertJ, Mockito <br>
 **log:** Log4j, Slf4j <br>
 **build:** Maven <br>
-**utils:** PgAdmin, Java Visual VM <br>
+**utils:** PgAdmin, Java Visual VM, VirtualBox <br>
 **other:** Git, Jsoup, СheckStyle <br>
-**OS:** Windows <br>
+**OS:** Windows, Linux (Ubuntu) <br>
 
 -----------
 
