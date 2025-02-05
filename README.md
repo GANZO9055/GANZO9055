@@ -40,5 +40,11 @@ https://github.com/GANZO9055/job4j_grabber
 **5.** Проект TODO список <br>
 https://github.com/GANZO9055/job4j_todo
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=GANZO9055&hide=stars,prs,issues,contribs) 
+**6.** Анализ данных с GitHub <br>
+https://github.com/GANZO9055/job4j_github_analysis
+
+**7.** Проект Social Media API <br>
+https://github.com/GANZO9055/job4j_social_media_api 
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=GANZO9055&hide=stars,prs,issues,contribs) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GANZO9055&layout=compact)](https://github.com/ShamRail/github-readme-stats)
