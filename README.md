@@ -25,10 +25,10 @@ Email: kosta.maslihov@gmail.com<br>
 
 <h3>Проекты</h3>
 
-**1.** Проект Кинотеатр <br>
+**1.** Cinema <br>
 https://github.com/GANZO9055/job4j_cinema <br>
 
-**2.** Проект Работа мечты <br>
+**2.** DreamJob <br>
 https://github.com/GANZO9055/job4j_dreamjob <br>
 
 **3.** Консольное приложение по работе с заявками <br>
@@ -37,10 +37,10 @@ https://github.com/GANZO9055/job4j_tracker
 **4.** Парсер вакансий с сайта Хабр Карьера <br>
 https://github.com/GANZO9055/job4j_grabber
 
-**5.** Проект TODO список <br>
+**5.** Проект TODO list <br>
 https://github.com/GANZO9055/job4j_todo
 
-**6.** Анализ данных с GitHub <br>
+**6.** Data analysis from GitHub <br>
 https://github.com/GANZO9055/job4j_github_analysis
 
 **7.** Проект Social Media API <br>
